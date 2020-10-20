@@ -1,0 +1,1 @@
+# angular-resizeble-editor
